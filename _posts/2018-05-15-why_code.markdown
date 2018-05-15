@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "*Why Code?*"
-date:       2018-05-15 19:18:57 +0000
+title:      "Why Learn Code?"
+date:       2018-05-15 15:18:58 -0400
 permalink:  why_code
 ---
 
