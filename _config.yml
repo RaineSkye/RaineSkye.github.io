@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Why Software Development?
 header-img: img/home-bg.png
 email: kitteanderson@gmail.com
 copyright_name: RaineSkye
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why learn to code?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RaineSkye
