@@ -1,0 +1,20 @@
+---
+layout: post
+title:      "*Why Code?*"
+date:       2018-05-15 19:18:57 +0000
+permalink:  why_code
+---
+
+
+My love affair with coding did not begin in freshman year of college.  What does that mean? Well, basically I remember taking CIS 101; introductory course to Computer Science: Javascript, and that was the end of my interest in that topic...
+
+Of course, this was back in the 90s before awesome media technology.  Mainly professors taught by droning out facts at breakneck speed standing next to an overhead projector.  I give this course professor an A++ in advanced usage of the ol' monotone vocal cords.  It was my least favorite course that semester =(  
+
+Then I moved to the Bay Area (and phones and computers became eons enlightened).  Living in the Bay Area is like being surrounded by an atmosphere of incessant creativity.  I am a constant learner and I also try to be creative, so I took a class in UI (User Interface) Design.  There was some minimal code I had to learn for a project, and it was really fun learning the code and using it in my design.  I found that I enjoyed that more than the design part itself.  
+
+Unlike my college experience, I learned that in practical application; coding can be fun, creative, people centric and collaborative.  So here I am, back to learning coding again.  Because, I thought, "Why not?".  
+
+
+
+
+
