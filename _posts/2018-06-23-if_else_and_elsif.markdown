@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "If Else and Elsif"
-date:       2018-06-24 02:23:43 +0000
+title:      "Conditional Statements"
+date:       2018-06-23 22:23:43 -0400
 permalink:  if_else_and_elsif
 ---
 
