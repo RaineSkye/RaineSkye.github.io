@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "rushing into code"
-date:       2018-06-04 05:48:07 +0000
+title:      "Rushing into code"
+date:       2018-06-04 01:48:08 -0400
 permalink:  rushing_into_code
 ---
 
